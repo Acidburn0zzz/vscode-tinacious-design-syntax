@@ -180,6 +180,7 @@
 		"editor.foreground": "#B3B3D4",
 		"editorWhitespace.foreground": "#535172",
 		"editor.lineHighlightBackground": "#1D1D26",
+	"editorRuler.foreground": "#535172",
     "editorLineNumber.foreground": "#535172",
 		"editor.selectionBackground": "#35354c",		
     "activityBar.background": "#15151c",
